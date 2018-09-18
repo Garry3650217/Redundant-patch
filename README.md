@@ -1,3 +1,2 @@
 # Redundant-patch
-Experimental data for reusing redundant patches on APR
-Some data will be upload soon.
+Experimental data for the impact of reusing redundant patches on APR.
